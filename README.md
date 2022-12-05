@@ -1,6 +1,6 @@
 # audible-library
 My Audible Library
-1) This is currently outdated.
+1) The Library result is currently outdated.
 2) I think I might have an audio book problem.
 3) This was done using the Audible Library Extractor: 
 * https://joonaspaakko.gitbook.io/audible-library-extractor/
